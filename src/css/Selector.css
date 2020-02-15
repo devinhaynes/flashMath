@@ -1,0 +1,38 @@
+.selector {
+  font-size: 20px;
+  border: 1px solid #a9a9a9;
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.selector p {
+  background: #02775a;
+  color: white;
+  margin: 0;
+  padding: 10px;
+}
+
+#sets p {
+  border-top-right-radius: 9px;
+  border-top-left-radius: 9px;
+}
+
+.selector form {
+  padding: 10px;
+}
+
+.selector input,
+label {
+  margin: 5px;
+}
+
+#selectorBtn {
+  display: block;
+  border: 1px solid #a9a9a9;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 20px auto;
+  width: 100px;
+}

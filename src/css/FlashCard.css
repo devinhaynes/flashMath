@@ -1,0 +1,23 @@
+.flashCard {
+  margin: auto;
+  width: 75%;
+}
+
+.flashCardFront,
+.flashCardBack {
+  width: 200px;
+  height: 200px;
+  border: 1px solid #a9a9a9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.flashCardBtn {
+  border: 1px solid #a9a9a9;
+  width: 100px;
+  height: 30px;
+  margin: 30px;
+  border-radius: 10px;
+}
